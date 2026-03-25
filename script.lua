@@ -1,3 +1,3 @@
 task.spawn(function()
-   loadstring(game:HttpGet("https://pastebin.com/raw/nuFE72u7"))()
+   loadstring(game:HttpGet('https://pastebin.com/raw/HWSa9AAC'))()
 end)
