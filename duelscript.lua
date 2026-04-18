@@ -1,7 +1,7 @@
 task.spawn(function()
-  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9b7f0a065a587b127a8a15389a81a58b.lua"))()
+  loadstring(game:HttpGet("https://pastefy.app/bI5uwSfU/raw"))()
 end)
 
 task.spawn(function()
-   loadstring(game:HttpGet("https://pastebin.com/raw/9KgdyF8E"))()
+   loadstring(game:HttpGet("https://pastebin.com/raw/QX4M8X4L"))()
 end)
